@@ -1,0 +1,22 @@
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 06/29/2016 4:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 06/29/2016 2:55
+7 коммитов в boots_buttons, 10 коммитов в master.
+master:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+boots_buttons:
+init
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
